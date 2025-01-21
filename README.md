@@ -14,4 +14,4 @@
 ## 🚀 ¿Cómo usarlo?  
 1. Descarga los archivos del proyecto o clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
+   git clone https://github.com/GersonBlodia/card-info-superheroe.git
